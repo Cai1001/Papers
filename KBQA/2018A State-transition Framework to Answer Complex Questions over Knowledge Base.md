@@ -1,5 +1,5 @@
 # A State-transition Framework to Answer Complex Questions over Knowledge Base
-
+[A State-transition Framework to Answer Complex Questions over Knowledge Base](http://aclweb.org/anthology/D18-1234)
 ## Abstract 
 
 文章提出了一种基于状态转移的方法来实现将一个复杂的的自然问句转化为查询的sparql语句。四种op和一种基于学习的转化方法。
